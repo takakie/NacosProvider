@@ -1,0 +1,6 @@
+nacos.config.server-addr=192.168.10.128:8848
+nacos.config.data-id=test
+nacos.config.auto-refresh=true
+nacos.config.bootstrap.enable=true
+nacos.config.username=nacos
+nacos.config.password=nacos
